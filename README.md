@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Allan Campos 👋</h1>
-<p align="center">🚀 Python Developer | 💻 Backend Enthusiast | 🇮🇪 Based in Dublin, Ireland</p>
+<p align="center">🚀 Python Developer | 💻 IT Enthusiast | 🇮🇪 Based in Dublin, Ireland</p>
 
 ---
 
@@ -11,7 +11,7 @@
 
 - 🎯 Focused on building **robust backend systems** with Python
 - 📚 Currently completing the **Meta Back-End Developer Certificate**
-- 🧠 Background in IT + years of hands-on professional experience
+- 🧠 Background in IT +4 years of hands-on professional experience
 - 🌍 Fully eligible to work in Ireland (Stamp 1)
 - 💬 I'm open to **junior Python developer**, **backend**, or **full-stack** roles
 
@@ -22,11 +22,11 @@
 | Backend       | Databases         | Tools & DevOps     | Frontend     |
 |---------------|-------------------|---------------------|--------------|
 | Python        | PostgreSQL        | Git / GitHub        | HTML / CSS   |
-| Flask         | SQLite            | Postman             | JavaScript   |
+| Flask         | Oracle            | Postman             | JavaScript   |
 | FastAPI (learning) | MySQL (basic) | Docker (learning)   | React (basic)|
 
 ---
-
+<!-- 
 ### 📂 Featured Projects
 
 > 💡 *Click the repo name to explore more.*
@@ -41,7 +41,7 @@
   Useful mini tools to clean files, rename folders, scrape data, etc.
 
 ---
-
+ -->
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -54,7 +54,7 @@
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/allancampos)  
-- 📧 Email: allan.your@email.com  
+- 📧 Email: allanbscs@gmail.com  
 - 🧠 Portfolio Site: [allancampos.dev](https://allancampos.dev) *(coming soon)*  
 
 ---
