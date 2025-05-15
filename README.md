@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Allan Campos
 
-<!--
-**allancampos/allancampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Python Backend Developer | Based in Dublin, Ireland 🇮🇪  
+💻 Currently upskilling through the Meta Back-End Developer Program  
+📚 Background in IT, now building real-world applications with Python, Flask, SQL, and more  
+🔍 Actively seeking junior/entry-level backend or full-stack roles
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, React, HTML, CSS, SQL  
+- **Frameworks:** Flask (learning FastAPI), Django, React (basic)  
+- **Databases:** MySQL, MongoDB, Oracle, PostgreSQL   
+- **Tools:** Git, GitHub, VSCode, Postman, Docker (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- Building a REST API
+- Personal task manager 
+- Automating simple tasks with Python scripts
+
+## 📫 How to reach me
+- 📩 Email: allanbscs@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/allancampos](https://www.linkedin.com/in/allancampos)
