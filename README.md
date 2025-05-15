@@ -1,21 +1,65 @@
-# 👋 Hi, I'm Allan Campos
+<p align="center">
+  <img src="https://github.com/allancampos/allancampos/blob/main/assets/ac-logo.gif" width="120" alt="AC Logo" />
+</p>
 
-🎯 Aspiring Python Backend Developer | Based in Dublin, Ireland 🇮🇪  
-💻 Currently upskilling through the Meta Back-End Developer Program  
-📚 Background in IT, now building real-world applications with Python, Flask, SQL, and more  
-🔍 Actively seeking junior/entry-level backend or full-stack roles
+<h1 align="center">Hi, I'm Allan Campos 👋</h1>
+<p align="center">🚀 Python Developer | 💻 Backend Enthusiast | 🇮🇪 Based in Dublin, Ireland</p>
 
-## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, React, HTML, CSS, SQL  
-- **Frameworks:** Flask (learning FastAPI), Django, React (basic)  
-- **Databases:** MySQL, MongoDB, Oracle, PostgreSQL   
-- **Tools:** Git, GitHub, VSCode, Postman, Docker (learning)
+---
 
-## 🚀 Current Projects
-- Building a REST API
-- Personal task manager 
-- Automating simple tasks with Python scripts
+### 💼 About Me
 
-## 📫 How to reach me
-- 📩 Email: allanbscs@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/allancampos](https://www.linkedin.com/in/allancampos)
+- 🎯 Focused on building **robust backend systems** with Python
+- 📚 Currently completing the **Meta Back-End Developer Certificate**
+- 🧠 Background in IT + years of hands-on professional experience
+- 🌍 Fully eligible to work in Ireland (Stamp 1)
+- 💬 I'm open to **junior Python developer**, **backend**, or **full-stack** roles
+
+---
+
+### 🛠️ Tech Stack
+
+| Backend       | Databases         | Tools & DevOps     | Frontend     |
+|---------------|-------------------|---------------------|--------------|
+| Python        | PostgreSQL        | Git / GitHub        | HTML / CSS   |
+| Flask         | SQLite            | Postman             | JavaScript   |
+| FastAPI (learning) | MySQL (basic) | Docker (learning)   | React (basic)|
+
+---
+
+### 📂 Featured Projects
+
+> 💡 *Click the repo name to explore more.*
+
+- 🔧 [**Flask REST API - Task Manager**](https://github.com/allancampos/flask-task-manager)  
+  A full CRUD API with user auth, PostgreSQL, and JWT.
+
+- 🌐 [**Personal Portfolio Site**](https://github.com/allancampos/portfolio)  
+  Showcasing projects and skills using Flask & HTML/CSS.
+
+- 🧹 [**Python Automation Scripts**](https://github.com/allancampos/python-utilities)  
+  Useful mini tools to clean files, rename folders, scrape data, etc.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=allancampos&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allancampos&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/allancampos)  
+- 📧 Email: allan.your@email.com  
+- 🧠 Portfolio Site: [allancampos.dev](https://allancampos.dev) *(coming soon)*  
+
+---
+
+<p align="center">
+  🔍 Actively looking for **Python developer opportunities** in **Dublin** 🇮🇪  
+  👉 Let's build something great together!
+</p>
