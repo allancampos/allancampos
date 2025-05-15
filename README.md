@@ -53,7 +53,7 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/allancampos)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/allanborgescampos)  
 - 📧 Email: allanbscs@gmail.com  
 - 🧠 Portfolio Site: [allancampos.dev](https://allancampos.dev) *(coming soon)*  
 
