@@ -23,7 +23,7 @@
 |---------------|-------------------|---------------------|--------------|
 | Python        | PostgreSQL        | Git / GitHub        | HTML / CSS   |
 | Flask         | Oracle            | Postman             | JavaScript   |
-| FastAPI (learning) | MySQL (basic) | Docker (learning)   | React (basic)|
+| FastAPI (learning) | MySQL  | Docker (learning)   | React (basic)|
 
 ---
 <!-- 
