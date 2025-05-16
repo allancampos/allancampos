@@ -21,7 +21,7 @@
 
 | Backend       | Databases         | Tools & DevOps     | Frontend     |
 |---------------|-------------------|---------------------|--------------|
-| Python        | PostgreSQL        | Git / GitHub        | HTML / CSS   |
+| Python        | MongoDB        | Git / GitHub        | HTML / CSS   |
 | Flask         | Oracle            | Postman             | JavaScript   |
 | FastAPI (learning) | MySQL  | Docker (learning)   | React (basic)|
 
